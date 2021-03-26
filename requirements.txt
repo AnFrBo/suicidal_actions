@@ -1,0 +1,15 @@
+## Requirements
+
+This project is implemented with R in RStudio.
+
+# libraries
+library(mlr) #for dummy coding 
+library(dplyr) #for %>% count
+library(car) #for multicollinearity
+library(knitr) #latex document
+library(ggplot2)
+library(ggcorrplot)
+library(caret) #for resamples (model comparison)
+library(stargazer)
+
+

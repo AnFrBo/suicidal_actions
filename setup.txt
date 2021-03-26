@@ -1,0 +1,17 @@
+Setup
+
+1. Get data sets
+
+	a. Suicide Rates Overview 1985 to 2016 
+	retrieved from: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
+	b. World Happiness Report 2015
+	retrieved from: https://www.kaggle.com/unsdsn/world-happiness
+
+	c. Global Terrorism Database 1970-2017
+	retrieved from: https://www.start.umd.edu/gtd/access/
+
+2. Open R script
+3. Set "path_datasets" to data set directory
+4. Run code
+
