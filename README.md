@@ -12,6 +12,7 @@ be multicollinear. Besides the regularizing method, the analysis focuses on meth
 
 __Author:__ Anna Franziska Bothe <br>
 __Institute:__ Humboldt University Berlin, Ladislaus von Bortkiewicz Chair of Statistics <br>
+__Course__: Data Analysis II
 __Semester:__ WS 2018/19 <br>
 
 
